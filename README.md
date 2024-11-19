@@ -5,7 +5,8 @@ The Blinkit Data Analysis project using Power BI focused on enhancing decision-m
 
 ### Technology Used
 - Power BI: Used for creating visualizations, dashboards, and reports.</br>
-- Excel: Used for cleaning and organizing smaller data before importing into Power BI.
+- Excel: Used for cleaning and organizing smaller data before importing into Power BI.</br>
+- MySQL : For solving the problem
 
 ### KPI's 
 1. Total sales: The overall revenue generated from all items sold.</br>
