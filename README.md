@@ -1,5 +1,6 @@
 # Blinkit_Data_Analysis
-![image](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ5ltv2QjCJqMoDiYDk6m41LT9zfX97h4vtOKxtgJfwUriGP9tEbj1aPkv0wb9pMc3Nqc&usqp=CAU)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJ5ltv2QjCJqMoDiYDk6m41LT9zfX97h4vtOKxtgJfwUriGP9tEbj1aPkv0wb9pMc3Nqc&usqp=CAU" width="400" />
+
 ### Project Overview
 The Blinkit Data Analysis project using Power BI focused on enhancing decision-making by looking into important aspects of the business, such as sales performance, customer behavior, inventory management, and delivery efficiency. The project brought together data from multiple sources and displayed insights through various visualizations.
 
